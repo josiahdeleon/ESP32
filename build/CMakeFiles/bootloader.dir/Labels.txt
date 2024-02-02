@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/VSCode_Projects/ESP32/blink/build/CMakeFiles/bootloader
+C:/VSCode_Projects/ESP32/blink/build/CMakeFiles/bootloader.rule
+C:/VSCode_Projects/ESP32/blink/build/CMakeFiles/bootloader-complete.rule
+C:/VSCode_Projects/ESP32/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/VSCode_Projects/ESP32/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/VSCode_Projects/ESP32/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/VSCode_Projects/ESP32/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/VSCode_Projects/ESP32/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/VSCode_Projects/ESP32/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/VSCode_Projects/ESP32/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
